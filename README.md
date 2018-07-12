@@ -13,7 +13,7 @@ Install npm packages using 'npm install' command from both Angular and NodeJS Pr
 alt="Video Tutorial for MEAN Stack CRUD Operations" width="500" height="400" border="10" /></a>
 
 # MEAN Stack Tutorial Hierarchy
-1. CRUD Operation in MEAN Stack ➤ this one
+1. CRUD Operation - Insert Update View and Delete ➤ this one
 2. User Registration - Node JS Backend ➤ https://goo.gl/CMnPwe
 
 # All Video Tutorial Series
