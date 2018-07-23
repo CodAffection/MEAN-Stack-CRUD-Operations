@@ -14,7 +14,9 @@ alt="Video Tutorial for MEAN Stack CRUD Operations" width="500" height="400" bor
 
 # MEAN Stack Tutorial Hierarchy
 1. CRUD Operation - Insert Update View and Delete ➤ this one
-2. User Registration - Node JS Backend ➤ https://goo.gl/CMnPwe
+2. User Registration 
+    Node JS Back End ➤ https://goo.gl/CMnPwe <br/>
+    Angualr 6 Front End ➤ https://goo.gl/xivk4x
 
 # All Video Tutorial Series
 | Series        | Video PlayList          |
