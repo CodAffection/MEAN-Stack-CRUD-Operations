@@ -1,8 +1,16 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
+//changes for latest rxjs imports as previous were not working
+/*
 import { Observable } from 'rxjs/Observable';
+
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/toPromise';
+*/
+import { Observable } from 'rxjs';
+
+import { map } from 'rxjs/operators';
+import { toPromise } from 'rxjs/operators';
 
 import { Employee } from './employee.model';
 
